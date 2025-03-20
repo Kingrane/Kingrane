@@ -1,10 +1,9 @@
-# 👑 Hello there, I'm @Kingrane!
+# ✦ 👑 Hello there, I'm @Kingrane! 👑 ✦
 - 👀 I’m interested in all funny stuff
-- 🌱 I’m currently learning Python, Flask, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌌 I’m currently learning 🐍Python, Flask, HTML, CSS
 - 📫 How to reach me (you can'r reach me)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i like free money
+- 🤑 Nothing makes me happier than getting money for doing nothing
+- 🎁 If it's free, I'm there. If they're paying, I've already arrived.
  # работает -  не трогай
 
 <!---
