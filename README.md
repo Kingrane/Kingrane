@@ -1,4 +1,6 @@
 # ✦ 👑 Hello there, I'm @Kingrane! 👑 ✦
+[![GitHub followers](https://img.shields.io/github/followers/Kingrane?label=Follow&style=social)](https://github.com/Kingrane/?tab=follow)
+
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 </div>
