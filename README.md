@@ -1,7 +1,6 @@
 # ✦ 👑 Hello there, I'm @Kingrane! 👑 ✦
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 </div>
 
 - 👀 I’m interested in all funny stuff
@@ -16,8 +15,10 @@
 </p>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
 </div>
+<p align="center">
+ <i>[![ProfileViews](https://komarev.com/ghpvc/?username=Kingrane&color=red&style=flat)](https://komarev.com/ghpvc/?username=Kingrane)</i>
+</p>
 
 <!---
 Kingrane/Kingrane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
