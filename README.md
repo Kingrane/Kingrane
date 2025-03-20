@@ -16,9 +16,9 @@
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 </div>
-<p align="center">
- <i>![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kingrane)</i>
-</p>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Kingrane)
+
 
 <!---
 Kingrane/Kingrane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
