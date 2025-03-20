@@ -8,7 +8,7 @@
 - 📫 How to reach me (you can'r reach me)
 - 🤑 Nothing makes me happier than getting money for doing nothing
 - 🎁 If it's free, I'm there. If they're paying, I've already arrived.
- # работает -  не трогай <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" align="right"/>
+ # работает -  не трогай <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" style="vertical-align: middle;"/>
 
 <p align="center">
  <i>Good Luck!</i>
@@ -17,7 +17,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 </div>
 <p align="center">
- <i>[![ProfileViews](https://komarev.com/ghpvc/?username=kingrane&color=red&style=flat)](https://komarev.com/ghpvc/?username=kingrane)</i>
+ <i>![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kingrane)</i>
 </p>
 
 <!---
