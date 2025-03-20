@@ -9,7 +9,7 @@
  <p align="center">
  <i>Good Luck!</i>
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=trilokia"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kingrane"/>       
 </p>
 
 </p>
