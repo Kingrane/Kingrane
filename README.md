@@ -6,16 +6,8 @@
 - 🎁 If it's free, I'm there. If they're paying, I've already arrived.
  # работает -  не трогай
 
- <p align="center">
+<p align="center">
  <i>Good Luck!</i>
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kingrane"/>       
-</p>
-
-</p>
-
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-<br>
 </p>
 
 <!---
