@@ -17,6 +17,12 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 </div>
 
+
+| 💻 **Technology** |
+| - |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/) [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Kingrane)
 
 
