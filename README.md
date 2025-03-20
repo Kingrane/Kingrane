@@ -10,7 +10,7 @@
 - 📫 How to reach me (you can'r reach me)
 - 🤑 Nothing makes me happier than getting money for doing nothing
 - 🎁 If it's free, I'm there. If they're paying, I've already arrived.
- # работает -  не трогай <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" style="vertical-align: middle;"/>
+ # <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" style="vertical-align: middle;"/> работает -  не трогай <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" style="vertical-align: middle;"/>
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
