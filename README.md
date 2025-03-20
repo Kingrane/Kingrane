@@ -10,9 +10,6 @@
 - 🎁 If it's free, I'm there. If they're paying, I've already arrived.
  # работает -  не трогай <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" style="vertical-align: middle;"/>
 
-<p align="center">
- <i>Good Luck!</i>
-</p>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 </div>
@@ -25,6 +22,9 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Kingrane)
 
+<p align="center">
+ <i>Good Luck!</i>
+</p>
 
 <!---
 Kingrane/Kingrane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
