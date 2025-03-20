@@ -3,6 +3,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 </div>
+
 - 👀 I’m interested in all funny stuff
 - 🌌 I’m currently learning 🐍Python, Flask, HTML, CSS
 - 📫 How to reach me (you can'r reach me)
