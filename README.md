@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in all funny stuff
 - 🌌 I’m currently learning 🐍Python, Flask, HTML, CSS
-- 📫 How to reach me (you can'r reach me)
+- 📫 How to reach me (you can't reach me)
 - 🤑 Nothing makes me happier than getting money for doing nothing
 - 🎁 If it's free, I'm there. If they're paying, I've already arrived.
  # <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" style="vertical-align: middle;"/> работает -  не трогай <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" style="vertical-align: middle;"/>
