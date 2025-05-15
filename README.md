@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40" style="vertical-align: middle;"/>
-  <h2><b>работает - не трогай</b></h2>
+  <b>работает - не трогай</b>
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40" style="vertical-align: middle;"/>
 </p>
 
