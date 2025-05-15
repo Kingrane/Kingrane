@@ -20,9 +20,9 @@
 ---
 
 <p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" style="vertical-align: middle;"/>
-  <b>работает - не трогай</b>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" style="vertical-align: middle;"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="60" height="60" style="vertical-align: middle;"/>
+  <h2><b>работает - не трогай</b></h2>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="60" height="60" style="vertical-align: middle;"/>
 </p>
 
 ---
@@ -35,7 +35,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
