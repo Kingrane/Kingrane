@@ -5,17 +5,11 @@
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/Kingrane?label=Follow&style=social)](https://github.com/Kingrane/?tab=follow)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Kingrane)
-
----
 
 ## 👋 About Me
+🤑 Nothing makes me happier than getting money for doing nothing
+Small silly beginner dev
 
-- 👀 I’m interested in all funny stuff
-- 🌌 Currently learning: **Python**, **Flask**, **HTML**, **CSS**
-- 📫 How to reach me: *you can't reach me*
-- 🤑 Nothing makes me happier than getting money for doing nothing
-- 🎁 If it's free, I'm there. If they're paying, I've already arrived.
 
 ---
 
