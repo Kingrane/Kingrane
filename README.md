@@ -8,6 +8,7 @@
 🤑 Nothing makes me happier than getting money for doing nothing
 
 Small silly beginner dev
+Currently learnig Python, JavaScript, Html/css
 
 
 ---
