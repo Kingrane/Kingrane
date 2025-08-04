@@ -4,8 +4,6 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40" height="40"/>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Kingrane?label=Follow&style=social)](https://github.com/Kingrane/?tab=follow)
-
 ## 👋 About Me
 🤑 Nothing makes me happier than getting money for doing nothing
 
