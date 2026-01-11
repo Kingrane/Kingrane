@@ -4,13 +4,8 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40" height="40"/>
 </p>
 
-## 👋 About Me
+## 👋
 🤑 Nothing makes me happier than getting money for doing nothing
-
-Small silly beginner dev
-
-Currently learnig Python, JavaScript, Html/css
-
 
 ---
 
