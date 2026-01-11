@@ -34,5 +34,5 @@
 
 
 <p align="center">
- <i>Good Luck!</i>
+ <i>"If you've been insulted unfairly, go back and earn it."</i>
 </p>
