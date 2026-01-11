@@ -1,10 +1,9 @@
 # ✦ 👑 Hello there, I'm @Kingrane! 👑 ✦
 
 <p align="left">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40" height="40"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="80" height="80"/>
 </p>
 
-## 👋
 🤑 Nothing makes me happier than getting money for doing nothing
 
 ---
