@@ -35,6 +35,6 @@
 
 <p align="center">
   <i>"Если тебя обидели незаслужено, вернись и заслужи."</i><br>
-  <i style="opacity: 0.5; font-size: 0.9em;">"If you've been insulted unfairly, go back and earn it."</i>
+  <sub><i>"If you've been insulted unfairly, go back and earn it."</i></sub>
 </p>
 
