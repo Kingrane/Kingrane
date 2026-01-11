@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask,html,css,blender" height="48" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask,html,css,blender,js" height="48" />
   </a>
 </p>
 
