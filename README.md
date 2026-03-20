@@ -4,8 +4,9 @@ Lazy romka
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="80" height="80"/>
 </p>
 
-🤑 Nothing makes me happier than getting money for doing nothing
-
+<p align="center">
+  <b>Nothing makes me happier than getting money for doing nothing</b>
+</p>
 ---
 
 <p align="center">
