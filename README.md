@@ -7,7 +7,6 @@ Lazy romka
 <p align="left">
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="80" height="80"/>
 </p>
----
 
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40" style="vertical-align: middle;"/>
