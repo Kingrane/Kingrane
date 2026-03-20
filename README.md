@@ -25,6 +25,8 @@
   <img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="50" height="50" style="vertical-align: top; margin-left: 5px;" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrane&theme=draculae&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 ---
 
 <p align="center">
