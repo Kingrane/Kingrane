@@ -16,7 +16,7 @@
 
 ---
 
-### 💻 Technology Stack
+### 💻
 
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
