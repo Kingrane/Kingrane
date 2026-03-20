@@ -1,4 +1,4 @@
-# ✦ 👑 Hello there, I'm @Kingrane! 👑 ✦
+Lazy romka
 
 <p align="left">
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="80" height="80"/>
