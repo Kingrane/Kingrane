@@ -5,10 +5,6 @@
 <h3 align="center">romka popka</h3>
 
 <p align="center">
-  <b>Nothing makes me happier than getting money for doing nothing</b>
-</p>
-
-<p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
   <b>работает — не трогай</b>
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
