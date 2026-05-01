@@ -2,7 +2,7 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="100" height="100"/>
 </p>
 
-<h3 align="center">Lazy Romka</h3>
+<h3 align="center">romka popka</h3>
 
 <p align="center">
   <b>Nothing makes me happier than getting money for doing nothing</b>
