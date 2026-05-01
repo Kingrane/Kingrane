@@ -2,7 +2,7 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="100" height="100"/>
 </p>
 
-<h3 align="center">romka popka</h3>
+<h3 align="center">romka vibecoder</h3>
 
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
