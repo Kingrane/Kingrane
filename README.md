@@ -20,13 +20,15 @@
 
 ---
 
-### 💻 стек/stack
+## 🧰 stack/стэк
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,html,css,blender,js,cs,git,github,vscode&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,cs,blender,git,github,vscode&perline=10&theme=dark" />
   </a>
-  <img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="48" height="48" alt="Pascal ABC.NET"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="46" height="46" alt="Pascal ABC.NET"/>
 </p>
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=kingrane&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
