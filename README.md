@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=565f89&height=180&section=header&text=romka%20vibecoder&fontSize=55&fontColor=bb9af7&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=565f89&height=150&section=header&text=romka%20vibecoder&fontSize=55&fontColor=bb9af7&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
@@ -51,4 +51,6 @@
   <sub><i>"If you've been insulted unfairly, go back and earn it."</i></sub>
 </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=565f89&height=90&section=footer&text=пока%20пока&fontSize=18&fontColor=bb9af7&animation=fadeIn"/>
+</p>
