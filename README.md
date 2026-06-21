@@ -33,6 +33,11 @@
   <img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="46" height="46" alt="Pascal ABC.NET"/>
 </p>
 <p align="center">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/opencode/white" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/claude/white" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/claudecode/white" />
+</p>
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=kingrane&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingrane&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
