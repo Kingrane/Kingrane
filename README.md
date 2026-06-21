@@ -20,9 +20,9 @@
 
 ---
 
-### 💻
+### 💻 стек/stack
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,flask,html,css,blender,js,cs,git,github,vscode&perline=10&theme=dark" />
   </a>
