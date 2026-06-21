@@ -1,4 +1,6 @@
-<h1 align="center">romka vibecoder</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=565f89&height=180&section=header&text=romka%20vibecoder&fontSize=55&fontColor=bb9af7&animation=fadeIn&fontAlignY=38"/>
+</p>
 
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
