@@ -59,3 +59,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=565f89&height=90&section=footer&text=пока%20пока&fontSize=18&fontColor=bb9af7&animation=fadeIn"/>
 </p>
+<p align="center">
+  <b>https://kingrane.github.io/portfolio/</b>
+</p>
